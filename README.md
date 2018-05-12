@@ -1,5 +1,6 @@
-# PneumaDAO
+# Pneuma DAO
 [Decentralized Autonomous Organization](https://wiki.p2pfoundation.net/Decentralized_Autonomous_Organization);  
+Evolution of the enlightenment/industrialization inducing joint stock company/ corporation fourhundered years ago. A decentralized inassailable system with platform, allowing actors to make decisions and arrive in concensus at large scale regardless of any centralized Authority. organization are means of organizing people to a common cause to do a venture together 
   
 Our decentralized network of narrow-AI autonomous agents performing as a corporation
 run without any human involvement under the control of an imutable/incorruptible set of business rules.
@@ -19,3 +20,4 @@ run without any human involvement under the control of an imutable/incorruptible
   ### international Volunteer
   ### local complimentary education market
   
+  # Foundation Myth Tim & Charles Shanghai "charcoal & Watercolor" academy 
