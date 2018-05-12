@@ -13,7 +13,7 @@ run without any human involvement under the control of an imutable/incorruptible
   * global outreach and interest in rural direct investment opportunities 
   * international institional support for rural human capital development.  
   * Insight and local options for teams of matched individuals instead of land flight. 
-  * Digital Occupation and Resistance 
+  * Digital Occupation and Resistance against non open source and involutary social credit systems
   
   ## Stakeholders
   ### Targeted students/Mentors
