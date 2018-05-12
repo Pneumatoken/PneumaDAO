@@ -10,6 +10,7 @@ run without any human involvement under the control of an imutable/incorruptible
     
   Aurguments for a redistripution/investment platform:  
   
+  * Global Singelton 
   * global outreach and interest in rural direct investment opportunities 
   * international institional support for rural human capital development.  
   * Insight and local options for teams of matched individuals instead of land flight. 
@@ -24,3 +25,43 @@ run without any human involvement under the control of an imutable/incorruptible
   # Foundation Myth Tim & Charles Shanghai "charcoal & Watercolor" academy
   
   * (RBC)Roco's Basilik Complient formulation 
+  
+  Pneuma Coin is a protocol designed to make governance easy through modularized infrastructure that defines a set of base rules tailored to specific types of organizations. This repository contains the smart contracts for the Pneuma Coin on-chain protocol.  
+  
+## Getting Started
+  
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.  
+  
+## Installing
+  
+npm Pneuma Coin, manages dependencies, therefore installation is kept straightforward:  
+  
+  
+## Running tests
+truffle test for ethereum development environment. All tests are run in truffle:
+  
+
+truffle test --report enables the ethereum gas reporter, this prints all gas used by functions:  
+  
+  
+## code linting
+solium --dir ./contracts To run solium linting:  
+  
+## Built in Truffle - Ethereum development environment
+a frontend ethereum lottery to fund the backend DAO investing in selected teams and cover expenses.
+
+## Authors  
+  
+Charles Finney  
+  
+  
+See also the list of contributors who participated in this project.  
+
+## Versioning
+
+We use SemVer for versioning, see the tags in this repository.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+  
