@@ -21,6 +21,7 @@ run without any human involvement under the control of an imutable/incorruptible
   ### Online Skills Mentors
   ### international Volunteers
   ### local complimentary education markets
+  ### Sovereign open identity systems. 
   
   # Foundation Myth Tim & Charles Shanghai "charcoal & Watercolor" academy
   
