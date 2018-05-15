@@ -1,8 +1,8 @@
 # DAO: Project Marduk
 "enabling a crypto economic  ecosystem that enabling space access and going to the moon"  
-  <!--  Table of Contents: -->
-  -Table of Contents:
--[Problem Addressed](#Problem Addressed)  
+<!--  Table of Contents: -->
+-Table of Contents:
+    -[Problem Addressed](#Problem Addressed)  
     -[How the DAO addresses the Problem](#How the DAO addresses the Problem)  
 how DAO plans to make money 
 DAO Business Model
@@ -51,7 +51,7 @@ DAO Business Model
 ## Pneuma Fam
 * Charles finney 
   
-SPACESUIT X
+[SPACESUIT X](https://medium.com/@brucefenton/spacesuit-x-c314946fa349)
 Security
 — How secure is this? Security is the foundation of any crytpo or blockchain project. Factors to be considered are the security of the blockchain being used, centralization, control and an analysis of attack vectors on the chain, coin, project and any related smart contracts.
 
