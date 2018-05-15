@@ -1,7 +1,22 @@
+# Contents
+     - [Specification](#specification) 
+     - [Dependencies Title](#dependencies-title) 
+
+    ## Specification
+    Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. 
+
+    ## Dependencies Title
+    Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. 
 # DAO: Project Marduk
 "enabling a crypto economic  ecosystem that enabling space access and going to the moon"  
 <!--  Table of Contents: -->
-Table of Contents:
+##### Table of Contents:
 * [Problem Addressed](#)  
 [How the DAO addresses the Problem][How the DAO addresses the Problem]
 * [how DAO plans to make money](#how)
