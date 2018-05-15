@@ -1,8 +1,8 @@
 # DAO: Project Marduk
 "enabling a crypto economic  ecosystem that enabling space access and going to the moon"  
 <!--  Table of Contents: -->
-* Table of Contents:
-* [Problem Addressed](#Problem Addressed)
+- Table of Contents:
+* [Problem Addressed](#Problem Addressed)  
 [How the DAO addresses the Problem][How the DAO addresses the Problem]
 * [how DAO plans to make money](#how)
 * [DAO Business Model](#)
