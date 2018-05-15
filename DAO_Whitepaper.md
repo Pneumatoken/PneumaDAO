@@ -1,15 +1,16 @@
 # DAO: Project Marduk
 "enabling a crypto economic  ecosystem that enabling space access and going to the moon"  
 <!--  Table of Contents: -->
--Table of Contents:
-    -[Problem Addressed](#Problem Addressed)  
-    -[How the DAO addresses the Problem](#How the DAO addresses the Problem)  
+- Table of Contents:
+    - [Problem Addressed](#Problem Addressed)  
+    - [How the DAO addresses the Problem](#How the DAO addresses the Problem)  
 how DAO plans to make money 
 DAO Business Model
 
 ##### Table of Contents:
 ##### Problem Addressed
 ##### How the DAO addresses the Problem
+* Dan North four questions 
 ##### how DAO plans to make money 
 ##### DAO Business Model 
 * Pneuma Token as a Protokoll token neccesary for the programable logic within the Ecosystem.
