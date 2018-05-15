@@ -51,7 +51,7 @@ DAO Business Model
 ## Pneuma Fam
 * Charles finney 
   
-[SPACESUIT X](https://medium.com/@brucefenton/spacesuit-x-c314946fa349)
+## [SPACESUIT X](https://medium.com/@brucefenton/spacesuit-x-c314946fa349)
 Security
 — How secure is this? Security is the foundation of any crytpo or blockchain project. Factors to be considered are the security of the blockchain being used, centralization, control and an analysis of attack vectors on the chain, coin, project and any related smart contracts.
 
