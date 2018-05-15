@@ -1,4 +1,4 @@
-# Contents
+# Table of Contents
      - [Specification](#specification) 
      - [Dependencies Title](#dependencies-title) 
 
