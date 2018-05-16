@@ -1,31 +1,11 @@
-</script>
-
-
-	</head>
-	<body>
-		<header class="header" role="banner">
-	<div class="header-inner">
-		<div class="logo"><a href="/">MaintainableCSS</a></div>
-		<nav class="navigation">
-	<ul>
-		<li><a class="" href="/">Home</a></li>
-		<li><a class="navigation-isActive" href="/chapters/">Chapters</a></li>
-	</ul>
-</nav>
-	</div>
-</header>
-		<main>
-           	<h1 id="chapters">Chapters</h1>
-
+<h1 id="chapters">Chapters</h1>
 <ol>
-	
-		<li>
-			<a href="/chapters/introduction/"> Introduction </a>
-		</li>
-	
-		<li>
-			<a href="/chapters/semantics/"> Semantics </a>
-		</li>
+<li>
+<a href="/chapters/introduction/"> Introduction </a>
+</li>
+<li>
+<a href="/chapters/semantics/"> Semantics </a>
+</li>
 	
 		<li>
 			<a href="/chapters/reuse/"> Reuse </a>
